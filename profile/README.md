@@ -30,11 +30,10 @@ Pixtoka is actively evolving — here’s what’s coming:
 | **Dashboard / Web Panel** | Manage bot settings from a web interface | 🟡 Planned |
 | **Ticket System** | Handle support requests directly in Discord | 🟡 Planned |
 | **Leveling & XP System** | Roles and rewards based on activity | 🟡 Planned |
-| **Music & Media Commands** | Stream audio without premium restrictions | 🔍 Researching |
 | **API & Plugin Support** | Allow custom extensions per server | 🟡 Planned |
-| **Multi-Language Support** | Select language per guild or per user | 🔄 In development |
+| **Multi-Language Support** | Select language per guild or per user | 🟡 Planned |
 | **Advanced Logging** | Logs for message edits, deletions, and joins/leaves | 🟡 Planned |
-| **Reaction Roles** | Assign roles using emoji reactions | 🟢 Prototype |
+| **Reaction Roles** | Assign roles using emoji reactions | 🟡 Planned |
 | **Event Scheduling** | Create and manage events with reminders | 🟡 Planned |
 | **Automated Backups** | Save configuration & settings automatically | 🟡 Planned |
 
@@ -71,10 +70,6 @@ Pixtoka is actively evolving — here’s what’s coming:
   - [ ] Per-server config
   - [ ] Role integration
   - [ ] Leaderboard
-- [ ] Music & Media
-  - [ ] Queue & skip
-  - [ ] Youtube/Mp3 support
-  - [ ] Basic filters (bass, nightcore ?)
 
 <!--
 ## 🧩 Tech Stack
